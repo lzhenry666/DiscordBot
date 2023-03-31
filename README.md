@@ -1,0 +1,2 @@
+# DiscordBot
+Openai e waifuAI
